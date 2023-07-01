@@ -1,6 +1,6 @@
 # Welcome to the Realm of My Code
 
-[![BudapestSignal](https://img.shields.io/badge/Master%20of%20Puppets-100%25-blue.svg)](https://github.com/masterpuppeteer)
+[![BudapestSignal](https://img.shields.io/badge/BudapestSignal-Active-orange)](https://github.com/your-username)
 
 Congratulations, weary traveler, for stumbling upon this magical realm of my code! Here, you shall witness the ingenious creations of my caffeinated mind, meticulously crafted with the finest selection of memes, late-night snacks, and questionable life choices. Brace yourself, for the journey you are about to embark upon is unlike any other.
 
